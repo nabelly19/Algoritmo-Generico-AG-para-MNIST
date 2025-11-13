@@ -1,5 +1,5 @@
 ## 🛠️ Decisões de Projeto do Algoritmo Genético (GA) para Seleção de Features
-
+ 
 Este projeto utiliza um Algoritmo Genético (GA) para otimizar a seleção de *features* (pixels) do *dataset* MNIST ($784$ *features* originais) com o objetivo de treinar um classificador **Decision Tree**. As decisões de projeto do GA buscam balancear a performance do modelo (acurácia) com a complexidade (número de *features* selecionadas).
 
 ---
